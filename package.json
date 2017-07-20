@@ -1,0 +1,16 @@
+{
+  "name": "bc",
+  "description": "parse-server for bc",
+  "scripts": {
+    "start": "parse-server config.json"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "parse-server": "^2.0.0"
+  },
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

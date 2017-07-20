@@ -1,0 +1,7 @@
+{
+  "appId": "bait",
+  "masterKey": "city",
+  "appName": "bc_server",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/parse"
+}
